@@ -1,0 +1,7 @@
+.profile__container .profile__heading{
+  display: flex;
+  align-items: center;
+  font-size: 1em;
+  color: #545454;
+  gap: 15px;
+}

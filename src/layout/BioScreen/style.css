@@ -1,0 +1,38 @@
+.bio__container{
+  padding: 5px 10px;
+}
+
+.bio__view__container{
+  border-bottom: 1px solid gray;
+  padding-block: 10px;
+}
+
+
+.about-me-label, .blood__group{
+    font-size: 0.9em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-block: 14px;
+    margin-block: 10px;
+}
+
+.bio__view__container .about__me{
+  border-bottom: 1px solid;
+}
+
+.resume__btn{
+  background: #fff;
+  border: none;
+  outline: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  height: 40px;
+  box-shadow: 0px 0px 5px 1px #cfcccc;
+  padding-inline: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}

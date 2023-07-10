@@ -1,0 +1,62 @@
+.profile__heading{
+  display: flex;
+  align-items: center;
+  font-size: 1em;
+  color: #545454;
+  gap: 15px;
+}
+
+.about__me{
+  padding: 10px;
+}
+
+.label{
+  font-size: 0.9em;
+}
+
+.text-area{
+  margin-block: 10px;
+  width: 98%;
+  height: 15vh;
+  padding: 10px 0 10px 10px;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 8px;
+  outline: none;
+}
+
+.error-msg{
+  font-size: 0.7em;
+  color: #cf3030;
+  margin-block: 0;
+  padding-inline: 10px;
+}
+
+.select__container{
+  padding-block: 10px;
+}
+
+.btn__container{
+  text-align: center;
+  margin-block: 20px;
+}
+
+.save__btn{
+  width: 20vw;
+  height: 5vh;
+  border-radius: 20px;
+  border: none;
+  color: #ffff;
+  background: #eb5050;
+  font-weight: bold;
+}
+
+.disable__btn{
+  width: 20vw;
+    height: 5vh;
+    border-radius: 20px;
+    border: none;
+    color: #ffff;
+    background: #ffa3a3;
+    font-weight: bold;
+}
